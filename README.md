@@ -12,11 +12,11 @@ Mahasiswa Informatika di **Universitas Diponegoro** yang sedang berproses menjad
 *   **Scope 1.0:** Aplikasi web untuk prediksi hasil seleksi masuk universitas (SNBP).
 
 ### 📈 GitHub Stats
-![Bintang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bintodd&show_icons=true&theme=radical)
+![Bintang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bintodd&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ### 💬 Let's Connect
-*   **Email:** [bintanglincahrok@gmail.com]
-*   **Portfolio:** [bintanglincah.vercel.app]
+[![Email](https://img.shields.io/badge/Email-bintanglincahrok@gmail.com-blue?style=flat-square&logo=gmail)](mailto:bintanglincahrok@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-success?style=flat-square&logo=vercel)](https://bintanglincah.vercel.app)
 
 ---
 *"Talk is cheap. Show me the code."*
