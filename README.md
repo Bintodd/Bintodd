@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/ROxDmc_3NvYAAAAC/persona-3-makoto.gif" width="400" />
+</p>
+
 # Halo, saya Bintang 👋
 
 Mahasiswa Informatika di **Universitas Diponegoro** yang sedang berproses menjadi software engineer. Fokus pada pengembangan sistem dan aplikasi web dengan minat besar pada *game engine logic* dan optimasi sistem.
