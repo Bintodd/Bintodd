@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/ROxDmc_3NvYAAAAC/persona-3-makoto.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/ROxDmc_3NvYAAAAC/persona-3-makoto.gif" width="600" />
 </p>
 
 # Halo, saya Bintang 👋
